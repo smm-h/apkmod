@@ -34,7 +34,7 @@ You are responsible for what you do with this piece of code. You are further adv
 ## Step-by-step guide
 
 - Create a new directory and copy your APP.apk file into it.
-- Generate a keystore there using `apksigner
+- Generate a keystore there using `apksigner`
 - Copy `mod.conf` in it and edit in these values:
   - `APP_NAME`: name of the APK file without the `.apk`
   - `PACKAGE_NAME`: fully qualified name of the main package of the app
